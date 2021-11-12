@@ -10,7 +10,7 @@ class Main {
 
     public static void main(String[] args) {  
         Scanner player = new Scanner(System.in);
-            System.out.println("the number is " + String.valueOf(NUMBER)); // This is a debug string
+            System.out.println("the number is " + String.valueOf(NUMBER)); //  This is a debug string
             while ( guess != NUMBER ) {
             // Here we can prompt user to pick a number
             System.out.println("Please pick a number between 1 and 100");
