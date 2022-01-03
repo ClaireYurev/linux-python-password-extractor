@@ -4,6 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 // # Easter Egg: int32 2201010001
+// 
 
 class Main {
     private static final Random r = new Random();
